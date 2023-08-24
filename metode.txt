@@ -1,0 +1,1 @@
+Metode yang kami pakai adalah sepiral, Model spiral adalah gabungan dari model Prototyping dan model waterfall dengan penekanan yang tinggi pada analisis resiko pada tiap tahapanya.

@@ -1,0 +1,8 @@
+1. Sistem apa yang anda kembangkan pada mata kuliah ini?
+Jawab: Website tentang penginapan 
+
+2. Apa tujuan anda mengembangkan sistem tersebut?
+Jawab:Untuk Mengembangkan Website yang masih banyak yang kurang
+
+3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
+Jawab:Harapan nya website yang sudah di buat dapat berkembang dan membantu dalam penginapan yang ada
